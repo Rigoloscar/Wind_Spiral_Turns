@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Python program for ICAO PanOps turn computations 
 #----------------------------------------------------
 # Version: 1                                        
-# Author: Óscar Rigol                               
+# Author: Ã“scar Rigol                               
 #----------------------------------------------------
 
 # Input Data
@@ -146,13 +146,13 @@ def Airplane_computation(IAS, Bank, Altitude, Wind):
     print(Label)
 
 
-# Example 1: CAT C aircraft with a maximum bank angle of 25º
+# Example 1: CAT C aircraft with a maximum bank angle of 25Âº
 Airplane_computation(160, (math.radians(25)), 4000, 30)
 
-# Example 2: CAT B aircraft with a maximum bank angle of 25º
+# Example 2: CAT B aircraft with a maximum bank angle of 25Âº
 Airplane_computation(120, (math.radians(25)), 4000, 30)
 
-# Example 2: CAT B aircraft with a maximum bank angle of 25º
+# Example 2: CAT B aircraft with a maximum bank angle of 25Âº
 Airplane_computation(90, (math.radians(25)), 4000, 30)
 
 
