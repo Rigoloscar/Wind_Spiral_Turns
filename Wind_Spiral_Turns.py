@@ -3,7 +3,7 @@ import math
 import matplotlib.pyplot as plt
 
 #----------------------------------------------------
-# Python program for ICAO PanOps turn computations 
+# Python program for ICAO PANS-OPS turn computations 
 #----------------------------------------------------
 # Version: 1                                        
 # Author: Óscar Rigol                               
